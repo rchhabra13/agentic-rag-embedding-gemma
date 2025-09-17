@@ -57,3 +57,5 @@ streamlit run agentic_rag_embeddinggemma.py
 - **Ollama**: Local LLM server
 - **EmbeddingGemma**: Google's embedding model
 - **Llama 3.2**: Meta's language model
+
+<!-- Updated: 2025-09-16 -->
